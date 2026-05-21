@@ -1,0 +1,49 @@
+Financial markets are places where people buy and sell financial assets. These assets include stocks, bonds, currencies, commodities, and cryptocurrencies. Financial markets help companies, governments, and individuals move money from people who have extra money to people or organisations that need money.
+
+A stock is a small ownership share in a company. When someone buys a stock, they own a small part of that company. If the company performs well, the stock price may rise. If the company performs badly, the stock price may fall.
+
+A bond is a type of loan. When someone buys a bond, they are lending money to a government or company. In return, the borrower usually pays interest and later returns the original money.
+
+Forex means foreign exchange. It is the market where currencies are bought and sold. Examples of currencies include the US dollar, euro, British pound, Swiss franc, and Japanese yen.
+
+Cryptocurrency is a digital asset that uses blockchain technology. Bitcoin and Ethereum are examples of cryptocurrencies. Cryptocurrency prices can move very quickly, so they are risky.
+
+Bitcoin is the first and most popular cryptocurrency. Some people use Bitcoin as a digital store of value, while others trade it because its price changes often.
+
+A commodity is a basic physical good that can be bought and sold. Examples include gold, oil, silver, wheat, coffee, and natural gas.
+
+Gold is a popular commodity. Some investors buy gold during uncertain economic times because they believe it can protect value when markets are unstable.
+
+Investing means putting money into an asset with the hope that it will grow in value over time. Investing is usually long-term.
+
+Trading means buying and selling financial assets more frequently to try to profit from price movements. Trading is usually shorter-term and can be risky.
+
+Risk in financial markets means the possibility of losing money. Every investment has risk. Good risk management means not putting all your money into one asset and not risking more than you can afford to lose.
+
+Inflation means prices of goods and services increase over time. When inflation is high, money loses buying power because the same amount of money buys fewer things.
+
+An interest rate is the cost of borrowing money or the reward for saving money. Central banks can raise or lower interest rates to influence the economy.
+
+A bull market is a period when financial prices are generally rising. It often shows confidence among investors.
+
+A bear market is a period when financial prices are generally falling. It often shows fear, uncertainty, or weak confidence among investors.
+
+Diversification means spreading money across different investments. For example, instead of buying only Bitcoin, someone could invest in stocks, bonds, gold, and cash. This can reduce risk.
+
+A portfolio is a collection of investments owned by a person or organisation. A portfolio can include stocks, bonds, crypto, commodities, and cash.
+
+Market volatility means how much and how quickly prices move up and down. High volatility means prices change a lot in a short time.
+
+Liquidity means how easily an asset can be bought or sold. Cash is very liquid because it can be used immediately. Property is less liquid because it can take time to sell.
+
+A dividend is money that a company pays to shareholders from its profits. Not all companies pay dividends.
+
+A broker is a company or platform that allows people to buy and sell financial assets. Examples include stock brokers, crypto exchanges, and forex platforms.
+
+A central bank manages a country’s money system. Central banks can influence interest rates, inflation, and financial stability.
+
+Saving means keeping money safe for short-term needs. Investing means putting money into assets to try to grow it over time. Saving is usually safer, while investing has more risk.
+
+Financial markets move because of supply and demand, company performance, economic news, interest rates, inflation, politics, global events, and investor emotions.
+
+Important safety rule: This bot explains financial concepts for education. It should not tell users exactly what to buy or sell. It should not promise profit. Financial markets are risky.
